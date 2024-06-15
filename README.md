@@ -1,6 +1,6 @@
 This is a simple program that detects faces in images.
 
-It uses Python and OpenCV. 
+It uses Python, OpenCV, numpy and matplotlib. 
 OpenCV is a library that contains pretrained models that can be used for face detection.
 
 The model used here is called: Haar cascade classifier for face detection.

@@ -1,18 +1,33 @@
-This is a simple program that detects faces in images.
+# Face Detection in images 🤖
+[linkedin.com/in/david-owoniyi]
+This simple program is designed for detecting faces in images using Machine Learning with Python, OpenCV, Matplotlib and Numpy.
 
-It uses Python, OpenCV, numpy and matplotlib.
+### Features📍
+* Face detection using pre-trained face detection model from OpenCV.
+* Converts the input image to a format suitable for processing with OpenCV using the Numpy library.
+* Draws bounding rectangles around detected faces and smiles.
+* Displays the processed image with detected faces using the Matplotlib library.
+* Efficient integration of Numpy, OpenCV, and Matplotlib libraries for image processing and visualization.
 
-The OpenCV library contains pretrained models that can be used for face detection.
+### Process Overview ♻️
+* Use the Numpy library to convert the input image into a form suitable for OpenCV to work with.
+* Import the OpenCV library and load the Haar cascade classifiers for face detection.
+* Use the face detection model to detect faces in the specified image.
+* Draw bounding circles around the detected faces.
+* Display the image containing the detected faces using the Matplotlib library.
 
-The model used here is called: Haar cascade classifier for face detection.
+### Key Skills 🗝️
+* Python programming
+* Machine Learning
+* Image processing
+* Computer Vision
+* Data visualisation
 
-The first step is to use the numpy library to convert the input image into a form that is suitable for OpenCV to work with.
+### Dependencies 🔽
+* Python
+* OpenCV
+* Numpy
+* Matplotlib
 
-We then import the OpenCV library and load the face detection model.
-
-We then use the model to detect faces in the image specified and then
-draw bounding circles on the detected faces.
-
-We then show the image containing the detected faces using the matplotlib library.
-
-The matplotlib library is a python library that is used for creating visualisations in python.
+### Tools ⚙️
+* Jupyter notebook

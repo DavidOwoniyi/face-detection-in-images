@@ -6,7 +6,7 @@ This simple program is designed for detecting faces in images using Machine Lear
 ### Features📍
 * Face detection using pre-trained face detection model from OpenCV.
 * Converts the input image to a format suitable for processing with OpenCV using the Numpy library.
-* Draws bounding rectangles around detected faces and smiles.
+* Draws bounding circles around detected faces and smiles.
 * Displays the processed image with detected faces using the Matplotlib library.
 * Efficient integration of Numpy, OpenCV, and Matplotlib libraries for image processing and visualization.
 

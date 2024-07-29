@@ -1,5 +1,6 @@
 # Face Detection in images 🤖
-[linkedin.com/in/david-owoniyi]
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/david-owoniyi"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>
+
 This simple program is designed for detecting faces in images using Machine Learning with Python, OpenCV, Matplotlib and Numpy.
 
 ### Features📍
